@@ -99,7 +99,7 @@ La sección **Pedidos** gestiona los pedidos realizados por los clientes.
 1. Selecciona **Crear Pedido**.
 2. Introduce los datos del cliente.
 3. Selecciona los productos y cantidades.
-4. Confirma y guarda el pedido.
+4. Confirma y guarda el pedido. 
 
 ![Ejemplo de Pedidos](ruta/de/tu/imagen/pedidos.png)
 
